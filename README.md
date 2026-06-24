@@ -181,6 +181,8 @@ Several ideas or thoughts that can make Laravel-admin more awesome, but for some
 
 ## Others
 
+* [UnfoldCMS](https://github.com/hpakdaman/unfoldcms) - A self-hosted CMS with a modern React 19 + shadcn/ui admin panel built on Laravel 12. REST API v1, HMAC webhooks, headless mode. [Website](https://unfoldcms.com) | [Demo](https://demo.unfoldcms.com)
+
 Add yours to the list, make a PR!
 
 ## Sites
